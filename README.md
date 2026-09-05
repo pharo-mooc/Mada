@@ -27,3 +27,6 @@ J'ai surtout trouvé que c'était le cours avec le plus de valeur unique \(des "
 
 - Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/SyntaxInANutshell.md
 
+## Exercise: ProfStef
+
+- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/ProfStef.md
