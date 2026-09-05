@@ -19,4 +19,11 @@ J'ai surtout trouvé que c'était le cours avec le plus de valeur unique \(des "
 "J'ai trouvé ça très intéressant, beaucoup plus que prévu ! je regrette de ne pas m'y être mis plus tôt. J'ai enfin l'impression de vraiment faire de la POO ! Ou à l'inverse je me rends que je n'en faisais pas vraiment..." - Anonymous, 2019
 
 
-- https://github.com/pharo-mooc/LectureOutlines/blob/main/WhyPharo.md
+## Why Pharo?
+
+- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/WhyPharo.md
+
+## Syntax in a Nutshell
+
+- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/SyntaxInANutshell.md
+
