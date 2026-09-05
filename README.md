@@ -67,6 +67,11 @@ J'ai surtout trouvé que c'était le cours avec le plus de valeur unique \(des "
 - Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/DSL.md
 
 
+
+
+
+
+
 # Week 3
 
 
@@ -76,11 +81,11 @@ J'ai surtout trouvé que c'était le cours avec le plus de valeur unique \(des "
 
 ## TDD 
 
-- Contents: 
+- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/TDD.md
 
 ## XTDD
 
-- Contents: 
+- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/XTDD.md
 
 
 ## Exercises: Countries
@@ -90,8 +95,69 @@ J'ai surtout trouvé que c'était le cours avec le plus de valeur unique \(des "
 
 
 
+
+
 # Week 4
+
+
+## Self / Super 
+
+- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/InheritanceSelfSuper.md
 
 ## Refactorings
 
-contents: 
+- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/Refactorings.md
+
+## Finish Exercises
+
+Finish all the exercises
+
+
+
+
+# Week 5
+
+
+## Exercise: LAN
+
+- Chapter 5 of book https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/2024-04-01-CompanionExercise.pdf
+
+
+# Week 6
+
+### Understanding Metaclasses
+
+- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/UnderstandingMetaclass.md
+
+# Week 7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
