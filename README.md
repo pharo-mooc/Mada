@@ -38,6 +38,10 @@ J'ai surtout trouvé que c'était le cours avec le plus de valeur unique \(des "
 
 - Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/BasicsOnTesting.md
 
+## Install Pharo
+
+- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/InstallPharo.md
+
 ## Exercise: Counter 
 
 - Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/CounterExercise.md
