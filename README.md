@@ -18,9 +18,5 @@ J'ai surtout trouvé que c'était le cours avec le plus de valeur unique \(des "
 
 "J'ai trouvé ça très intéressant, beaucoup plus que prévu ! je regrette de ne pas m'y être mis plus tôt. J'ai enfin l'impression de vraiment faire de la POO ! Ou à l'inverse je me rends que je n'en faisais pas vraiment..." - Anonymous, 2019
 
-## Why Pharo?
 
-Did you read the testimonies of the mooc https://mooc.pharo.org and https://advanced-design-mooc.pharo.org?
-
-Then Pharo is fun and it will help you to massively learn. In addition read 
-
+- https://github.com/pharo-mooc/LectureOutlines/blob/main/WhyPharo.md
