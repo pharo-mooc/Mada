@@ -23,6 +23,9 @@ J'ai surtout trouvé que c'était le cours avec le plus de valeur unique \(des "
 
 - Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/WhyPharo.md
 
+
+# Week 1
+
 ## Syntax in a Nutshell
 
 - Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/SyntaxInANutshell.md
@@ -30,3 +33,65 @@ J'ai surtout trouvé que c'était le cours avec le plus de valeur unique \(des "
 ## Exercise: ProfStef
 
 - Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/ProfStef.md
+
+## Basics on Testing
+
+- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/BasicsOnTesting.md
+
+## Exercise: Counter 
+
+- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/CounterExercise.md
+
+# Week 2
+
+
+## Syntax: Messages
+
+- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/Syntax-Messages.md
+
+## Blocks and More
+
+- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/BlocksAndMore.md
+
+## Collections
+
+- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/Collections.md
+
+## Editing Practices
+
+- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/EditingPractices.md
+
+
+## Exercise: Developing a Domain Specific Language
+
+- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/DSL.md
+
+
+# Week 3
+
+
+## Essence of Dispatch
+
+- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/EssenceOfDispatch.md
+
+## TDD 
+
+- Contents: 
+
+## XTDD
+
+- Contents: 
+
+
+## Exercises: Countries
+
+- Contents: https://github.com/pharo-mooc/LectureOutlines/tree/main/FlagCountryTutorial
+
+
+
+
+# Week 4
+
+## Refactorings
+
+contents: 
