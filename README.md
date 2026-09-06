@@ -121,6 +121,9 @@ Finish all the exercises
 
 # Week 5
 
+## Reuse and Hooks
+
+- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/ReuseAndHooks.md
 
 ## Exercise: LAN
 
@@ -129,22 +132,38 @@ Finish all the exercises
 
 # Week 6
 
-### Understanding Metaclasses
+
+## About Global
+- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/Global.md
+
+## Common Errors
+- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/CommonErrors.md
+
+
+## Understanding Metaclasses
 
 - Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/UnderstandingMetaclass.md
 
 # Week 7
 
 
+## Inheritance vs. Use
+
+- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/InheritanceVsUse.md
+
+
+## Reflection
+
+- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/Reflection.md
 
 
 
 
+# Week 8
 
+## Design Pattern Command
 
-
-
-
+- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/DPCommand.md
 
 
 
