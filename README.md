@@ -21,54 +21,54 @@ J'ai surtout trouvé que c'était le cours avec le plus de valeur unique \(des "
 
 ## Why Pharo?
 
-- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/WhyPharo.md
+- Contents: [WhyPharo](https://github.com/pharo-mooc/LectureOutlines/blob/main/WhyPharo.md)
 
 
 # Week 1
 
 ## Syntax in a Nutshell
 
-- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/SyntaxInANutshell.md
+- Contents: [SyntaxInANutshell](https://github.com/pharo-mooc/LectureOutlines/blob/main/SyntaxInANutshell.md)
 
 ## Exercise: ProfStef
 
-- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/ProfStef.md
+- Contents: [ProfStef](https://github.com/pharo-mooc/LectureOutlines/blob/main/ProfStef.md)
 
 ## Basics on Testing
 
-- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/BasicsOnTesting.md
+- Contents: [BasicsOnTesting](https://github.com/pharo-mooc/LectureOutlines/blob/main/BasicsOnTesting.md)
 
 ## Install Pharo
 
-- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/InstallPharo.md
+- Contents: [InstallPharo](https://github.com/pharo-mooc/LectureOutlines/blob/main/InstallPharo.md)
 
 ## Exercise: Counter 
 
-- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/CounterExercise.md
+- Contents: [CounterExercise](https://github.com/pharo-mooc/LectureOutlines/blob/main/CounterExercise.md)
 
 # Week 2
 
 
 ## Syntax: Messages
 
-- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/Syntax-Messages.md
+- Contents: [Syntax-Messages](https://github.com/pharo-mooc/LectureOutlines/blob/main/Syntax-Messages.md)
 
 ## Blocks and More
 
-- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/BlocksAndMore.md
+- Contents: [BlocksAndMore](https://github.com/pharo-mooc/LectureOutlines/blob/main/BlocksAndMore.md)
 
 ## Collections
 
-- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/Collections.md
+- Contents: [Collections](https://github.com/pharo-mooc/LectureOutlines/blob/main/Collections.md)
 
 ## Editing Practices
 
-- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/EditingPractices.md
+- Contents: [EditingPractices](https://github.com/pharo-mooc/LectureOutlines/blob/main/EditingPractices.md)
 
 
 ## Exercise: Developing a Domain Specific Language
 
-- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/DSL.md
+- Contents: [DSL](https://github.com/pharo-mooc/LectureOutlines/blob/main/DSL.md)
 
 
 
@@ -81,20 +81,20 @@ J'ai surtout trouvé que c'était le cours avec le plus de valeur unique \(des "
 
 ## Essence of Dispatch
 
-- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/EssenceOfDispatch.md
+- Contents: [EssenceOfDispatch](https://github.com/pharo-mooc/LectureOutlines/blob/main/EssenceOfDispatch.md)
 
 ## TDD 
 
-- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/TDD.md
+- Contents: [TDD](https://github.com/pharo-mooc/LectureOutlines/blob/main/TDD.md)
 
 ## XTDD
 
-- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/XTDD.md
+- Contents: [XTDD](https://github.com/pharo-mooc/LectureOutlines/blob/main/XTDD.md)
 
 
 ## Exercises: Countries
 
-- Contents: https://github.com/pharo-mooc/LectureOutlines/tree/main/FlagCountryTutorial
+- Contents: [FlagCountryTutorial](https://github.com/pharo-mooc/LectureOutlines/tree/main/FlagCountryTutorial)
 
 
 
@@ -106,11 +106,11 @@ J'ai surtout trouvé que c'était le cours avec le plus de valeur unique \(des "
 
 ## Self / Super 
 
-- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/InheritanceSelfSuper.md
+- Contents: [InheritanceSelfSuper](https://github.com/pharo-mooc/LectureOutlines/blob/main/InheritanceSelfSuper.md)
 
 ## Refactorings
 
-- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/Refactorings.md
+- Contents: [Refactorings](https://github.com/pharo-mooc/LectureOutlines/blob/main/Refactorings.md)
 
 ## Finish Exercises
 
@@ -123,7 +123,7 @@ Finish all the exercises
 
 ## Reuse and Hooks
 
-- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/ReuseAndHooks.md
+- Contents: [ReuseAndHooks](https://github.com/pharo-mooc/LectureOutlines/blob/main/ReuseAndHooks.md)
 
 ## Exercise: LAN
 
@@ -134,27 +134,27 @@ Finish all the exercises
 
 
 ## About Global
-- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/Global.md
+- Contents: [Global](https://github.com/pharo-mooc/LectureOutlines/blob/main/Global.md)
 
 ## Common Errors
-- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/CommonErrors.md
+- Contents: [CommonErrors](https://github.com/pharo-mooc/LectureOutlines/blob/main/CommonErrors.md)
 
 
 ## Understanding Metaclasses
 
-- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/UnderstandingMetaclass.md
+- Contents: [UnderstandingMetaclass](https://github.com/pharo-mooc/LectureOutlines/blob/main/UnderstandingMetaclass.md)
 
 # Week 7
 
 
 ## Inheritance vs. Use
 
-- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/InheritanceVsUse.md
+- Contents: [InheritanceVsUse](https://github.com/pharo-mooc/LectureOutlines/blob/main/InheritanceVsUse.md)
 
 
 ## Reflection
 
-- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/Reflection.md
+- Contents: [Reflection](https://github.com/pharo-mooc/LectureOutlines/blob/main/Reflection.md)
 
 
 
@@ -163,7 +163,7 @@ Finish all the exercises
 
 ## Design Pattern Command
 
-- Contents: https://github.com/pharo-mooc/LectureOutlines/blob/main/DPCommand.md
+- Contents: [DPCommand](https://github.com/pharo-mooc/LectureOutlines/blob/main/DPCommand.md)
 
 
 
